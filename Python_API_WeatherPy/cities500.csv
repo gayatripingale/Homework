@@ -1,504 +1,503 @@
 City,Country,Cloudiness,Humidity,Lat,Lon,Temp,Wind_Speed
-Vaini,TO,36,100,-21,-175,81,15.0
-Rikitea,PF,56,100,-23,-134,78,11.0
-Punta Arenas,CL,40,83,-53,-70,56,28.0
-Ushuaia,AR,40,75,-54,-68,48,26.0
-Hermanus,ZA,0,90,-34,19,53,2.0
-Bredasdorp,ZA,0,82,-34,20,62,1.0
-Kruisfontein,ZA,0,92,-34,24,64,6.0
-Port Elizabeth,ZA,0,88,-33,25,67,19.0
-Port Alfred,ZA,0,78,-33,26,69,14.0
-East London,ZA,0,94,-33,27,72,26.0
-Busselton,AU,32,100,-33,115,61,16.0
-Albany,AU,92,71,-35,117,58,16.0
-New Norfolk,AU,20,93,-42,147,50,2.0
-Hobart,AU,20,93,-42,147,50,3.0
-Bluff,NZ,32,100,-46,168,55,6.0
-Cape Town,ZA,0,82,-33,18,66,12.0
-Mar del Plata,AR,0,29,-46,-67,78,13.0
-Chuy,UY,0,65,-33,-53,73,13.0
-Saint-Philippe,RE,0,88,-21,55,77,6.0
-Cidreira,BR,32,73,-30,-50,77,8.0
-Castro,CL,32,65,-42,-73,63,7.0
-Arraial do Cabo,BR,75,78,-22,-42,80,9.0
-Mahebourg,MU,75,83,-20,57,80,6.0
-Mount Gambier,AU,20,83,-37,140,61,5.0
-Tuatapere,NZ,48,100,-46,167,52,6.0
-Coihaique,CL,20,40,-45,-72,69,26.0
-Rio Gallegos,AR,20,25,-51,-69,64,21.0
-Rawson,AR,48,24,-43,-65,86,6.0
-Rocha,UY,0,44,-34,-54,76,10.0
-Kaitangata,NZ,32,88,-46,169,52,4.0
-Avarua,CK,75,74,-21,-159,84,8.0
-Viedma,AR,48,29,-40,-62,89,12.0
-Jamestown,SH,92,100,-15,-5,74,12.0
-Souillac,MU,75,83,-20,57,80,6.0
-Port Lincoln,AU,0,91,-34,135,65,17.0
-Portland,AU,80,93,-33,149,54,4.0
-Te Anau,NZ,76,88,-45,167,48,3.0
-Ranfurly,NZ,68,85,-45,170,45,3.0
-Ancud,CL,24,61,-41,-73,65,6.0
-San Carlos de Bariloche,AR,20,35,-41,-71,73,23.0
-Tres Arroyos,AR,0,48,-38,-60,81,9.0
-Saldanha,ZA,0,55,-33,17,66,5.0
-Margate,ZA,20,88,-30,30,69,16.0
-Lakes Entrance,AU,0,100,-37,147,59,8.0
-Westport,NZ,56,92,-41,171,54,2.0
-Lebu,CL,0,94,-37,-73,60,19.0
-Rengo,CL,0,39,-34,-70,86,17.0
-Chivilcoy,AR,8,51,-34,-60,83,4.0
-Rio Grande,BR,40,69,-32,-52,77,13.0
-Luderitz,NA,0,82,-26,15,62,2.0
-Richards Bay,ZA,92,89,-28,32,65,3.0
-Bambous Virieux,MU,75,83,-20,57,80,6.0
-Flinders,AU,0,100,-34,150,57,4.0
-Murray Bridge,AU,0,99,-35,139,60,6.0
-Goulburn,AU,92,99,-34,149,56,4.0
-Port Macquarie,AU,75,82,-31,152,64,6.0
-Ahipara,NZ,8,85,-35,173,69,4.0
-Coquimbo,CL,40,64,-29,-71,68,10.0
-Vicuna,CL,40,64,-30,-70,68,10.0
-Reconquista,AR,0,51,-29,-59,87,4.0
-Tramandai,BR,32,73,-29,-50,77,8.0
-Sao Joao da Barra,BR,75,65,-21,-41,82,11.0
-Calvinia,ZA,0,41,-31,19,55,3.0
-Richmond,ZA,32,97,-29,30,52,2.0
-Beloha,MG,0,91,-25,45,73,4.0
-Carnarvon,AU,0,100,-24,113,73,21.0
-Geraldton,AU,90,68,-28,114,64,6.0
-Northam,AU,90,67,-31,116,60,8.0
-Yulara,AU,0,28,-25,130,69,5.0
-Broken Hill,AU,0,65,-31,141,61,10.0
-Narrabri,AU,0,87,-30,149,60,12.0
-Byron Bay,AU,90,83,-28,153,71,12.0
-Alofi,NU,68,78,-19,-169,82,8.0
-Puerto Ayora,EC,75,70,0,-90,84,8.0
-Taltal,CL,0,57,-25,-70,70,5.0
-Presidencia Roque Saenz Pena,AR,24,38,-26,-60,93,4.0
-Carambei,BR,76,65,-24,-50,76,3.0
-Vila Velha,BR,20,74,-3,-38,84,9.0
-Walvis Bay,NA,0,72,-22,14,62,4.0
-Aranos,NA,12,23,-24,19,70,9.0
-Lydenburg,ZA,92,93,-25,30,57,2.0
-Vangaindrano,MG,92,95,-23,47,74,2.0
-Port Hedland,AU,0,88,-20,118,78,8.0
-Mount Isa,AU,8,42,-20,139,64,2.0
-Biloela,AU,80,97,-24,150,73,4.0
-Koumac,NC,8,88,-20,164,80,6.0
-Vao,NC,88,97,-22,167,80,11.0
-Teahupoo,PF,75,66,-17,-149,84,9.0
-Pisco,PE,0,65,-13,-76,78,26.0
-Iquique,CL,0,47,-20,-70,78,17.0
-Mayor Pablo Lagerenza,PY,20,62,-19,-60,88,9.0
-Cardoso,BR,48,87,-20,-49,79,2.0
-Serra,BR,40,70,-20,-40,84,14.0
-Caravelas,BR,32,100,-17,-39,81,15.0
-Georgetown,SH,92,100,-7,-14,78,14.0
-Opuwo,NA,0,33,-18,13,68,7.0
-Grootfontein,NA,76,92,-19,18,63,3.0
-Shurugwi,ZW,92,100,-19,30,62,9.0
-Mocuba,MZ,100,99,-16,36,73,3.0
-Mahanoro,MG,0,91,-19,48,76,3.0
-Hithadhoo,MV,88,100,0,73,83,4.0
+Vaini,TO,90,94,-21,-175,77,6.0
+Rikitea,PF,64,98,-23,-134,81,14.0
+Punta Arenas,CL,75,44,-53,-70,58,43.0
+Ushuaia,AR,75,54,-54,-68,57,12.0
+Hermanus,ZA,0,71,-34,19,62,2.0
+Bredasdorp,ZA,0,68,-34,20,68,3.0
+Kruisfontein,ZA,0,95,-34,24,70,6.0
+Port Elizabeth,ZA,0,88,-33,25,66,5.0
+Port Alfred,ZA,80,90,-33,26,70,3.0
+East London,ZA,75,94,-33,27,68,5.0
+Busselton,AU,0,100,-33,115,64,17.0
+Albany,AU,0,93,-35,117,56,7.0
+New Norfolk,AU,40,77,-42,147,59,17.0
+Hobart,AU,40,77,-42,147,59,17.0
+Bluff,NZ,92,95,-46,168,61,7.0
+Cape Town,ZA,20,88,-33,18,66,17.0
+Mar del Plata,AR,0,36,-46,-67,78,22.0
+Chuy,UY,0,70,-33,-53,77,11.0
+Saint-Philippe,RE,75,78,-21,55,79,5.0
+Cidreira,BR,20,70,-30,-50,83,8.0
+Castro,CL,92,82,-42,-73,62,3.0
+Arraial do Cabo,BR,20,66,-22,-42,86,5.0
+Mahebourg,MU,75,83,-20,57,80,10.0
+Mount Gambier,AU,100,78,-37,140,60,4.0
+Tuatapere,NZ,88,100,-46,167,58,3.0
+Coihaique,CL,90,63,-45,-72,64,4.0
+Rio Gallegos,AR,40,18,-51,-69,71,34.0
+Rawson,AR,0,28,-43,-65,90,12.0
+Rocha,UY,0,52,-34,-54,80,8.0
+Kaitangata,NZ,92,89,-46,169,55,2.0
+Avarua,CK,75,88,-21,-159,78,3.0
+Viedma,AR,0,41,-40,-62,83,9.0
+Jamestown,SH,36,100,-15,-5,74,10.0
+Souillac,MU,75,83,-20,57,80,10.0
+Port Lincoln,AU,48,100,-34,135,62,7.0
+Portland,AU,0,59,-33,149,59,4.0
+Te Anau,NZ,92,96,-45,167,51,2.0
+Ranfurly,NZ,92,96,-45,170,52,3.0
+Ancud,CL,48,79,-41,-73,64,5.0
+San Carlos de Bariloche,AR,0,27,-41,-71,73,23.0
+Tres Arroyos,AR,32,58,-38,-60,79,6.0
+Saldanha,ZA,0,77,-33,17,66,21.0
+Margate,ZA,36,88,-30,30,74,16.0
+Lakes Entrance,AU,0,79,-37,147,65,13.0
+Westport,NZ,76,98,-41,171,60,3.0
+Lebu,CL,0,91,-37,-73,59,14.0
+Rengo,CL,0,47,-34,-70,78,4.0
+Chivilcoy,AR,76,82,-34,-60,78,3.0
+Rio Grande,BR,40,61,-32,-52,82,13.0
+Luderitz,NA,0,82,-26,15,62,16.0
+Richards Bay,ZA,0,65,-28,32,78,9.0
+Bambous Virieux,MU,75,83,-20,57,80,10.0
+Flinders,AU,90,82,-34,150,66,4.0
+Murray Bridge,AU,92,98,-35,139,63,10.0
+Goulburn,AU,0,70,-34,149,55,3.0
+Port Macquarie,AU,0,100,-31,152,62,6.0
+Ahipara,NZ,64,95,-35,173,68,13.0
+Coquimbo,CL,0,64,-29,-71,69,11.0
+Vicuna,CL,0,64,-30,-70,69,11.0
+Reconquista,AR,12,59,-29,-59,88,4.0
+Tramandai,BR,20,70,-29,-50,83,8.0
+Sao Joao da Barra,BR,40,59,-21,-41,89,13.0
+Calvinia,ZA,0,27,-31,19,74,8.0
+Richmond,ZA,36,73,-29,30,69,2.0
+Beloha,MG,92,88,-25,45,76,14.0
+Carnarvon,AU,0,95,-24,113,76,12.0
+Geraldton,AU,0,77,-28,114,64,9.0
+Northam,AU,0,40,-31,116,71,5.0
+Yulara,AU,0,33,-25,130,75,8.0
+Broken Hill,AU,0,62,-31,141,63,11.0
+Narrabri,AU,20,72,-30,149,71,6.0
+Byron Bay,AU,40,78,-28,153,73,8.0
+Alofi,NU,36,100,-19,-169,71,1.0
+Puerto Ayora,EC,20,66,0,-90,86,11.0
+Taltal,CL,0,47,-25,-70,72,4.0
+Presidencia Roque Saenz Pena,AR,48,65,-26,-60,86,5.0
+Carambei,BR,56,99,-24,-50,72,2.0
+Vila Velha,BR,20,70,-3,-38,86,11.0
+Walvis Bay,NA,0,77,-22,14,62,12.0
+Aranos,NA,56,33,-24,19,81,8.0
+Lydenburg,ZA,80,71,-25,30,64,1.0
+Vangaindrano,MG,80,100,-23,47,72,1.0
+Port Hedland,AU,90,78,-20,118,82,5.0
+Mount Isa,AU,64,88,-20,139,75,4.0
+Biloela,AU,24,94,-24,150,68,3.0
+Koumac,NC,32,96,-20,164,75,3.0
+Vao,NC,32,100,-22,167,78,0.0
+Teahupoo,PF,20,66,-17,-149,84,3.0
+Pisco,PE,0,65,-13,-76,80,23.0
+Iquique,CL,0,50,-20,-70,77,21.0
+Mayor Pablo Lagerenza,PY,32,70,-19,-60,89,13.0
+Cardoso,BR,12,69,-20,-49,88,5.0
+Serra,BR,0,62,-20,-40,87,18.0
+Caravelas,BR,0,100,-17,-39,81,14.0
+Georgetown,SH,88,100,-7,-14,78,11.0
+Opuwo,NA,0,16,-18,13,79,11.0
+Grootfontein,NA,0,31,-19,18,78,7.0
+Shurugwi,ZW,92,97,-19,30,66,8.0
+Mocuba,MZ,76,96,-16,36,76,3.0
+Mahanoro,MG,56,82,-19,48,79,3.0
+Hithadhoo,MV,68,100,0,73,84,5.0
 Kununurra,AU,8,100,-15,128,73,3.0
-Mackay,AU,40,88,-21,149,78,4.0
-Poum,NC,0,100,-20,164,82,10.0
-Isangel,VU,64,100,-19,169,81,12.0
-Fare,PF,36,96,-16,-151,82,15.0
-Atuona,PF,80,100,-9,-139,81,13.0
-Huarmey,PE,24,54,-10,-78,76,4.0
-Azangaro,PE,40,44,-14,-70,59,6.0
-Pontes e Lacerda,BR,36,77,-15,-59,83,4.0
-Rubiataba,BR,64,88,-15,-49,77,3.0
-Ibicui,BR,68,87,-14,-39,75,6.0
-Maceio,BR,20,65,-9,-35,82,14.0
-Namibe,AO,20,100,-15,12,76,9.0
-Menongue,AO,0,45,-14,17,65,3.0
-Luangwa,ZM,88,95,-12,28,65,4.0
-Antalaha,MG,64,92,-14,50,78,8.0
-Cap Malheureux,MU,75,83,-19,57,80,6.0
-Quatre Cocos,MU,75,83,-20,57,80,6.0
-Bambanglipuro,ID,20,98,-7,110,69,2.0
-Broome,AU,90,74,-17,122,82,6.0
-Port Keats,AU,48,98,-14,129,78,3.0
-Alyangula,AU,88,100,-13,136,79,5.0
-Samarai,PG,12,100,-10,150,81,5.0
-Kirakira,SB,32,100,-10,161,81,2.0
-Sola,VU,8,92,-13,167,84,5.0
-Faanui,PF,0,100,-16,-151,81,14.0
-San Cristobal,EC,88,100,-1,-79,63,3.0
-Chimbote,PE,12,80,-9,-78,73,7.0
-Manoel Urbano,BR,44,87,-8,-69,77,2.0
-Aripuana,BR,56,70,-9,-60,85,2.0
-Jaguarari,BR,80,43,-10,-40,83,4.0
-Olinda,BR,90,78,-22,-43,80,8.0
-Luanda,AO,75,88,-8,13,78,4.0
-Saurimo,AO,76,89,-9,20,67,2.0
-Luwingu,ZM,24,97,-10,29,62,2.0
-Lindi,TZ,0,96,-10,39,72,2.0
-Ambilobe,MG,24,95,-13,49,73,2.0
-Victoria,SC,24,100,-4,55,80,6.0
-Waingapu,ID,20,99,-9,120,68,3.0
-Merauke,ID,92,100,-8,140,73,8.0
-Honiara,SB,75,94,-9,159,77,3.0
-Morropon,PE,36,83,-5,-79,74,1.0
-Benjamin Constant,BR,75,78,-4,-70,77,1.0
-Novo Aripuana,BR,24,76,-5,-60,84,2.0
-Itupiranga,BR,0,70,-5,-49,86,2.0
-Boa Viagem,BR,64,86,-5,-39,74,3.0
-Cabedelo,BR,20,69,-6,-34,82,10.0
-Port-Gentil,GA,20,83,0,8,80,6.0
-Mayumba,GA,92,100,-3,10,77,2.0
-Ilebo,CD,92,97,-4,20,70,3.0
-Mwandiga,TZ,12,100,-4,29,75,1.0
-Micheweni,TZ,100,100,-4,39,81,8.0
-Meulaboh,ID,76,100,4,96,78,4.0
-Mlonggo,ID,64,100,-6,110,74,1.0
-Sinjai,ID,20,100,-5,120,70,2.0
-Amahai,ID,92,100,-3,129,81,5.0
-Kiunga,PG,92,99,-6,141,71,2.0
-Kimbe,PG,44,100,-5,150,79,1.0
-Buala,SB,44,95,-8,159,81,4.0
-Ixtapa,MX,5,65,20,-105,77,11.0
-Pedernales,EC,76,78,0,-80,79,9.0
-Mitu,CO,32,66,1,-70,86,2.0
-Boa Vista,BR,75,36,2,-60,95,6.0
-Touros,BR,0,78,-5,-35,81,9.0
-Harper,LR,64,99,4,-7,81,7.0
-Takoradi,GH,44,100,4,-1,79,7.0
-Kango,GA,92,100,0,10,71,2.0
-Boende,CD,24,99,0,20,72,2.0
-Kilembe,UG,44,100,0,30,65,3.0
-Garissa,KE,0,53,0,39,84,11.0
-Mogadishu,SO,92,100,2,45,79,18.0
-Thinadhoo,MV,92,100,0,72,82,1.0
-Matara,LK,92,100,5,80,75,3.0
-Payakumbuh,ID,76,98,0,100,71,2.0
-Pontianak,ID,92,100,0,109,75,0.0
-Palu,ID,64,97,0,119,64,1.0
-Sorong,ID,56,100,0,131,80,2.0
-Vanimo,PG,80,100,-2,141,80,10.0
-Kavieng,PG,24,100,-2,150,83,6.0
-Kieta,PG,12,100,-6,155,78,3.0
-Hilo,US,90,94,19,-155,65,5.0
-Cabo San Lucas,MX,75,49,22,-109,71,19.0
-Coahuayana,MX,0,28,18,-100,86,3.0
-Puerto Escondido,MX,5,74,15,-97,82,9.0
-La Palma,PA,12,63,8,-78,86,8.0
-Lethem,GY,8,34,3,-59,94,12.0
-Sao Filipe,CV,0,97,14,-24,69,5.0
-Buchanan,LR,40,88,5,-10,77,5.0
-Accra,GH,88,78,5,0,80,11.0
-Nkongsamba,CM,80,95,4,9,70,2.0
-Kouango,CF,76,91,4,19,72,4.0
-Shakiso,ET,12,90,5,38,56,2.0
-Hobyo,SO,68,88,5,48,76,13.0
-Bandarbeyla,SO,92,100,9,50,76,11.0
-Eydhafushi,MV,76,100,5,73,80,8.0
-Weligama,LK,92,100,5,80,75,3.0
-Banda Aceh,ID,48,100,5,95,74,2.0
-Sibu,MY,75,100,2,111,75,2.0
-Parangan,PH,88,100,5,119,81,8.0
-Pundaguitan,PH,20,100,6,126,80,4.0
+Mackay,AU,75,88,-21,149,78,3.0
+Poum,NC,12,100,-20,164,81,5.0
+Isangel,VU,24,100,-19,169,80,4.0
+Fare,PF,76,95,-16,-151,83,10.0
+Atuona,PF,92,100,-9,-139,79,16.0
+Huarmey,PE,8,48,-10,-78,79,4.0
+Azangaro,PE,40,36,-14,-70,64,5.0
+Pontes e Lacerda,BR,0,73,-15,-59,89,4.0
+Rubiataba,BR,0,72,-15,-49,84,3.0
+Ibicui,BR,20,63,-14,-39,83,7.0
+Maceio,BR,75,74,-9,-35,80,10.0
+Namibe,AO,0,100,-15,12,75,14.0
+Menongue,AO,56,46,-14,17,77,4.0
+Luangwa,ZM,88,95,-12,28,66,4.0
+Antalaha,MG,32,86,-14,50,80,11.0
+Cap Malheureux,MU,75,83,-19,57,80,10.0
+Quatre Cocos,MU,75,83,-20,57,80,10.0
+Bambanglipuro,ID,8,95,-7,110,70,2.0
+Broome,AU,24,94,-17,122,77,3.0
+Port Keats,AU,8,95,-14,129,80,4.0
+Alyangula,AU,0,100,-13,136,82,11.0
+Samarai,PG,56,100,-10,150,80,2.0
+Kirakira,SB,92,100,-10,161,79,14.0
+Sola,VU,44,100,-13,167,82,4.0
+Faanui,PF,76,98,-16,-151,82,12.0
+San Cristobal,EC,76,100,-1,-79,64,3.0
+Chimbote,PE,8,80,-9,-78,73,7.0
+Manoel Urbano,BR,32,63,-8,-69,87,2.0
+Aripuana,BR,36,35,-9,-60,95,2.0
+Jaguarari,BR,0,32,-10,-40,84,5.0
+Olinda,BR,40,70,-22,-43,84,12.0
+Luanda,AO,40,88,-8,13,78,1.0
+Saurimo,AO,92,93,-9,20,68,3.0
+Luwingu,ZM,100,96,-10,29,63,5.0
+Lindi,TZ,8,95,-10,39,72,2.0
+Ambilobe,MG,64,99,-13,49,73,0.0
+Victoria,SC,40,78,-4,55,82,5.0
+Waingapu,ID,36,100,-9,120,70,2.0
+Merauke,ID,88,100,-8,140,75,4.0
+Honiara,SB,40,94,-9,159,77,1.0
+Morropon,PE,12,63,-5,-79,77,2.0
+Benjamin Constant,BR,40,59,-4,-70,90,8.0
+Novo Aripuana,BR,20,54,-5,-60,89,1.0
+Itupiranga,BR,20,53,-5,-49,95,4.0
+Boa Viagem,BR,56,81,-5,-39,77,6.0
+Cabedelo,BR,75,78,-6,-34,78,6.0
+Port-Gentil,GA,20,96,0,8,80,12.0
+Mayumba,GA,80,100,-3,10,77,4.0
+Ilebo,CD,32,84,-4,20,75,2.0
+Mwandiga,TZ,100,100,-4,29,70,3.0
+Micheweni,TZ,80,100,-4,39,82,5.0
+Meulaboh,ID,20,100,4,96,78,3.0
+Mlonggo,ID,80,100,-6,110,73,4.0
+Sinjai,ID,44,100,-5,120,71,2.0
+Amahai,ID,36,100,-3,129,82,5.0
+Kiunga,PG,76,98,-6,141,70,1.0
+Kimbe,PG,92,100,-5,150,78,1.0
+Buala,SB,88,100,-8,159,78,4.0
+Ixtapa,MX,0,53,20,-105,79,2.0
+Pedernales,EC,80,84,0,-80,79,6.0
+Mitu,CO,24,47,1,-70,90,2.0
+Boa Vista,BR,75,37,2,-60,96,5.0
+Touros,BR,68,83,-5,-35,84,11.0
+Harper,LR,0,93,4,-7,83,9.0
+Takoradi,GH,68,96,4,-1,82,8.0
+Kango,GA,76,90,0,10,74,1.0
+Boende,CD,12,92,0,20,74,2.0
+Kilembe,UG,68,100,0,30,65,0.0
+Garissa,KE,20,70,0,39,80,9.0
+Mogadishu,SO,0,98,2,45,80,19.0
+Thinadhoo,MV,88,100,0,72,83,9.0
+Matara,LK,0,96,5,80,77,7.0
+Payakumbuh,ID,56,93,0,100,69,1.0
+Pontianak,ID,24,100,0,109,76,2.0
+Palu,ID,56,95,0,119,64,1.0
+Sorong,ID,88,100,0,131,82,1.0
+Vanimo,PG,68,100,-2,141,82,9.0
+Kavieng,PG,80,100,-2,150,83,2.0
+Kieta,PG,92,100,-6,155,77,2.0
+Hilo,US,90,83,19,-155,58,11.0
+Cabo San Lucas,MX,75,43,22,-109,71,16.0
+Coahuayana,MX,0,27,18,-100,86,3.0
+Puerto Escondido,MX,20,69,15,-97,82,10.0
+La Palma,PA,0,55,8,-78,88,10.0
+Lethem,GY,20,33,3,-59,95,7.0
+Sao Filipe,CV,0,99,14,-24,69,9.0
+Buchanan,LR,40,66,5,-10,84,11.0
+Accra,GH,20,70,5,0,84,10.0
+Nkongsamba,CM,100,96,4,9,68,2.0
+Kouango,CF,36,80,4,19,76,10.0
+Shakiso,ET,88,96,5,38,56,2.0
+Hobyo,SO,92,87,5,48,77,10.0
+Bandarbeyla,SO,0,100,9,50,76,6.0
+Eydhafushi,MV,44,99,5,73,82,12.0
+Weligama,LK,0,96,5,80,77,7.0
+Banda Aceh,ID,24,100,5,95,72,2.0
+Sibu,MY,75,94,2,111,77,1.0
+Parangan,PH,0,100,5,119,82,8.0
+Pundaguitan,PH,48,100,6,126,81,7.0
 Lorengau,PG,80,100,-2,147,82,4.0
-Namatanai,PG,36,98,-3,152,83,8.0
-Butaritari,KI,56,100,3,172,82,19.0
-Kapaa,US,90,83,22,-159,74,14.0
-San Patricio,MX,20,66,19,-104,87,9.0
-La Libertad,SV,20,58,13,-89,88,9.0
-Portobelo,PA,40,62,9,-79,86,4.0
-Carora,VE,92,49,10,-70,81,4.0
-Rio Claro,TT,75,61,10,-61,82,13.0
-Sinnamary,GF,8,94,5,-52,79,10.0
-Carutapera,BR,48,93,-1,-46,79,4.0
-Oussouye,SN,0,64,12,-16,77,6.0
-Tokonou,GN,76,39,9,-9,84,6.0
-Yendi,GH,48,70,9,0,81,6.0
-Bauchi,NG,0,63,10,9,73,2.0
-Am Timan,TD,0,28,11,20,76,6.0
-Kavaratti,IN,0,100,10,72,83,3.0
-Valvedditturai,LK,88,92,9,80,81,11.0
-Port Blair,IN,8,96,11,92,84,6.0
-Ko Samui,TH,68,100,9,99,81,12.0
-Osmena,PH,24,100,12,124,73,4.0
-Bacolod,PH,76,96,10,122,74,5.0
-Ewa Beach,US,75,78,21,-158,75,6.0
-Guerrero Negro,MX,0,35,27,-114,69,7.0
-Acapulco,MX,20,70,16,-99,84,6.0
-San Agustin Acasaguastlan,GT,0,32,14,-89,82,1.0
-San Andres,CO,20,62,8,-76,87,16.0
-Oranjestad,AW,20,66,12,-70,84,14.0
-Le Vauclin,MQ,75,78,14,-60,78,11.0
-Bathsheba,BB,20,61,13,-59,82,16.0
-Ponta do Sol,CV,0,100,17,-25,68,5.0
-Porto Novo,CV,40,68,17,-25,69,4.0
-Dakar,SN,0,83,14,-17,69,4.0
-Gorom-Gorom,BF,0,37,14,0,82,9.0
-Goure,NE,92,56,13,10,82,3.0
-Biltine,TD,0,36,14,20,71,6.0
-Salalah,OM,0,69,17,54,75,3.0
-Kavali,IN,0,81,14,79,56,2.0
-Doembang Nangbuat,TH,88,95,14,100,73,6.0
-Quang Ngai,VN,92,99,15,108,68,2.0
-San Narciso,PH,20,73,15,120,77,6.0
-San Policarpo,PH,68,100,12,125,76,4.0
-Lompoc,US,90,50,34,-120,56,11.0
-Constitucion,MX,40,17,23,-104,73,23.0
-Temascalcingo,MX,20,98,19,-100,61,3.0
-Hecelchakan,MX,40,41,20,-90,91,11.0
-Bodden Town,KY,20,66,19,-81,84,11.0
-Sosua,DO,75,83,19,-70,76,5.0
-Nouadhibou,MR,0,77,20,-17,66,8.0
-Atar,MR,0,59,20,-13,62,2.0
-Tessalit,ML,0,35,20,1,67,5.0
-Arlit,NE,0,33,18,7,69,6.0
-Marawi,SD,0,19,18,31,71,8.0
-Mecca,SA,0,69,21,39,78,2.0
-Sur,OM,64,100,22,59,70,6.0
-Veraval,IN,44,58,20,70,78,10.0
-Mul,IN,0,66,20,79,68,5.0
-Mathbaria,BD,0,93,22,89,66,2.0
-Chiang Rai,TH,0,100,19,99,66,3.0
-Lingao,CN,76,98,19,109,65,5.0
-Davila,PH,8,100,18,120,75,24.0
-Itoman,JP,0,55,26,127,54,5.0
-Naze,JP,0,100,28,129,60,7.0
-Katsuura,JP,0,91,33,134,33,2.0
-La Paz,MX,75,45,24,-110,68,11.0
-Galeana,MX,32,67,24,-100,66,3.0
-Progreso,MX,44,83,20,-99,66,4.0
-Key Largo,US,75,65,25,-80,75,8.0
-Cockburn Town,TC,88,100,21,-71,75,18.0
-The Valley,AI,75,65,18,-63,79,13.0
-Los Llanos de Aridane,ES,40,45,28,-17,66,11.0
-Tiznit,MA,80,97,29,-9,57,4.0
-Adrar,DZ,0,17,27,0,75,12.0
-Awjilah,LY,0,59,29,21,54,6.0
-Sohag,EG,0,47,26,31,66,6.0
-Umm Lajj,SA,0,90,25,37,66,5.0
-Umm Bab,QA,64,91,25,50,63,3.0
-Chabahar,IR,20,100,25,60,72,5.0
-Mithi,PK,0,75,24,69,67,3.0
-Khajuraho,IN,20,64,24,79,56,1.0
-Sherpur,BD,0,97,25,90,61,2.0
-Dali,CN,76,81,25,100,51,4.0
-Guilin,CN,90,87,25,110,57,4.0
-Gushikawa,JP,1,87,26,127,54,4.0
-Shingu,JP,48,100,33,135,47,3.0
-Hasaki,JP,75,80,35,140,30,8.0
-Kahului,US,20,74,20,-156,75,3.0
-Pacific Grove,US,90,87,36,-121,47,10.0
-Rosarito,MX,75,29,27,-109,75,9.0
-Cumpas,MX,0,16,30,-109,71,3.0
-Uvalde,US,40,27,29,-99,76,10.0
-Chalmette,US,75,73,29,-89,72,9.0
-Ormond Beach,US,40,45,29,-81,86,11.0
-Hamilton,BM,20,68,32,-64,71,13.0
-Saint George,BM,20,73,32,-64,71,13.0
-Ribeira Grande,PT,40,67,38,-28,57,28.0
-Nalut,LY,8,68,31,10,49,7.0
-Ajdabiya,LY,0,86,30,20,46,2.0
-Madinat Sittah Uktubar,EG,40,64,29,31,68,5.0
-Zabol,IR,0,67,31,61,57,9.0
-Barkhan,PK,0,88,29,69,46,2.0
-Bageshwar,IN,8,53,29,79,42,4.0
-Enshi,CN,100,99,30,109,44,2.0
-Fuyang,CN,24,80,32,115,38,2.0
-Kaseda,JP,12,100,31,130,54,0.0
-Shimoda,JP,75,75,34,138,41,2.0
-Severo-Kurilsk,RU,48,100,50,156,22,9.0
-Fortuna,US,40,65,40,-124,48,12.0
-Pacifica,US,75,62,37,-122,52,18.0
-Santa Maria,US,75,58,34,-120,57,5.0
-Winslow,US,1,5,35,-110,62,12.0
-Elk City,US,1,17,35,-99,62,17.0
-Southaven,US,1,36,34,-90,62,10.0
-Rockingham,US,75,77,34,-79,63,5.0
-Torbay,CA,75,85,47,-52,23,11.0
-Methoni,GR,90,81,36,21,51,26.0
-Kumluca,TR,48,100,36,30,34,1.0
-Abu Kamal,SY,20,64,34,40,47,2.0
-Tafresh,IR,92,86,34,50,35,2.0
-Torbat-e Jam,IR,0,78,35,60,38,3.0
-Tagab,AF,90,93,34,69,39,6.0
-Leh,IN,64,69,34,77,-6,1.0
-Xining,CN,20,76,36,101,14,3.0
-Weinan,CN,40,66,34,109,48,5.0
-Rizhao,CN,80,86,35,119,39,7.0
-Fukuma,JP,0,80,33,130,36,1.0
-Kamogawa,JP,75,100,35,140,41,10.0
-Kamaishi,JP,0,97,39,141,17,5.0
-Nikolskoye,RU,75,77,59,30,3,11.0
-Provideniya,RU,48,100,64,-173,14,18.0
-Kodiak,US,1,25,39,-94,60,19.0
-Sun Valley,US,90,86,43,-114,26,10.0
-Price,US,1,34,39,-110,35,5.0
-Lexington,US,1,32,38,-84,55,3.0
-Jacksonville,US,90,51,30,-81,81,13.0
-Uniontown,US,1,27,39,-79,48,3.0
-Nantucket,US,1,90,41,-70,46,11.0
-Port Hawkesbury,CA,90,92,45,-61,32,16.0
-Vila Franca do Campo,PT,20,71,37,-25,53,25.0
-Peniche,PT,20,87,39,-9,53,6.0
-Burriana,ES,20,76,39,0,51,1.0
-Tortoli,IT,40,80,39,9,41,5.0
-Delvine,AL,75,87,39,20,40,1.0
-Bozuyuk,TR,75,93,39,30,42,12.0
-Bayburt,TR,36,71,40,40,20,4.0
-Hazorasp,UZ,90,87,41,61,42,18.0
-Aksu,CN,0,63,41,80,13,1.0
-Korla,CN,0,62,41,86,16,0.0
-Zhangye,CN,92,68,38,100,25,4.0
-Dongsheng,CN,32,85,29,112,43,3.0
-Qinhuangdao,CN,0,75,39,119,16,5.0
-Khasan,RU,92,100,42,130,17,7.0
-Tenno,JP,48,100,39,139,31,12.0
-Bethel,US,90,92,60,-161,12,19.0
-Sitka,US,0,48,37,-99,58,20.0
-Newport,US,1,78,41,-71,48,8.0
-Hermiston,US,1,36,45,-119,42,5.0
-Livingston,US,90,58,45,-110,27,13.0
-Pierre,US,1,59,44,-100,33,5.0
-Merrill,US,75,56,42,-121,32,9.0
-Midland,CA,20,55,44,-79,38,14.0
-Madison,US,20,42,43,-89,47,8.0
-Lagoa,PT,75,93,37,-8,59,10.0
-Carballo,ES,0,58,43,-8,44,13.0
-Libourne,FR,0,74,44,0,31,18.0
-Cremona,IT,40,42,45,10,28,8.0
-Sulina,RO,88,100,45,29,29,22.0
-Novolabinskaya,RU,75,85,45,39,15,15.0
-Fort-Shevchenko,KZ,92,100,44,50,36,13.0
-Sarkand,KZ,68,67,45,79,21,2.0
-Hovd,MN,0,58,48,91,2,3.0
-Darhan,MN,48,75,49,105,9,3.0
-Chaihe,CN,64,73,44,129,0,2.0
-Wakkanai,JP,68,100,45,141,26,11.0
-Port Hardy,CA,75,80,50,-127,41,8.0
-Peachland,CA,20,59,49,-119,31,5.0
-Maple Creek,CA,8,91,49,-109,23,9.0
-Brandon,CA,40,68,49,-99,26,13.0
-Thunder Bay,CA,75,69,48,-89,33,10.0
-Cochrane,CA,1,49,51,-114,26,2.0
-Forestville,CA,75,55,48,-69,37,16.0
-Saint-Augustin,CA,75,44,45,-73,39,10.0
-Bonavista,CA,68,94,48,-53,25,14.0
-Nanortalik,GL,0,100,60,-45,14,9.0
-Dingle,IE,0,100,52,-10,37,20.0
-Skibbereen,IE,75,69,51,-9,33,11.0
-Fecamp,FR,0,46,49,0,27,14.0
-Werneck,DE,1,72,49,10,14,6.0
-Wieliczka,PL,75,66,49,20,10,13.0
-Fastiv,UA,32,84,50,29,0,2.0
-Mitrofanovka,RU,48,79,49,39,4,7.0
-Ozinki,RU,80,90,51,49,15,10.0
-Dombarovskiy,RU,76,88,50,59,20,9.0
-Astana,KZ,90,100,51,71,21,11.0
-Semey,KZ,44,64,50,80,0,2.0
-Mugur-Aksy,RU,56,70,50,90,14,8.0
-Moron,MN,76,82,47,110,3,4.0
-Krasnyy Chikoy,RU,68,60,50,108,-1,2.0
-Hailar,CN,56,64,49,119,-4,6.0
-Novobureyskiy,RU,0,47,49,129,-15,5.0
-Vysokogornyy,RU,24,61,50,139,-8,2.0
-Vostok,RU,0,51,46,135,-18,2.0
-Petropavlovsk-Kamchatskiy,RU,75,78,53,158,10,6.0
-Egvekinot,RU,36,56,66,-179,-12,3.0
-Prince Rupert,CA,90,93,54,-130,37,10.0
-Beaverlodge,CA,40,63,55,-119,30,27.0
-The Pas,CA,90,67,53,-101,19,3.0
-Sioux Lookout,CA,75,69,50,-91,30,10.0
-Port-Cartier,CA,75,86,50,-66,26,6.0
-Grindavik,IS,90,100,63,-22,44,28.0
-Vestmannaeyjar,IS,92,93,63,-20,44,25.0
-Ballina,IE,20,80,54,-9,30,11.0
-Scarborough,GB,76,77,54,0,32,10.0
-Guderup,DK,40,68,54,9,25,13.0
-Spas-Klepiki,RU,32,68,55,40,-4,4.0
-Bazarnyye Mataki,RU,92,81,54,49,3,13.0
-Turgoyak,RU,88,80,55,60,7,6.0
-Bulaevo,KZ,64,74,54,70,0,8.0
-Kargat,RU,44,54,55,80,-10,3.0
-Atagay,RU,56,77,55,99,1,2.0
-Kurumkan,RU,44,68,54,110,-12,2.0
-Tupik,RU,44,72,54,119,-12,2.0
-Mnogovershinnyy,RU,0,56,53,139,-11,2.0
-Magadan,RU,8,75,59,150,-16,2.0
-Sterling,US,90,50,39,-77,52,9.0
-Haines Junction,CA,80,76,60,-137,20,1.0
-Juneau,US,90,100,58,-134,33,24.0
-Fort Nelson,CA,75,78,58,-122,14,2.0
-Yellowknife,CA,90,77,62,-114,5,12.0
-Thompson,CA,90,72,55,-97,14,6.0
-Iqaluit,CA,90,78,63,-68,8,3.0
-Pangnirtung,CA,90,60,66,-65,8,8.0
-Paamiut,GL,0,100,61,-49,17,11.0
-Lerwick,GB,20,100,60,-1,37,4.0
-Vikersund,NO,12,85,59,9,9,6.0
-Lisiy Nos,RU,75,77,60,30,3,11.0
-Kharovsk,RU,68,73,59,40,-6,11.0
-Raduzhnyy,RU,32,47,62,77,-28,5.0
-Volchansk,RU,8,42,59,60,-27,2.0
-Gornopravdinsk,RU,0,34,60,69,-22,2.0
-Kargasok,RU,36,72,59,80,-5,2.0
-Teya,RU,48,62,60,92,-8,2.0
-Kodinsk,RU,32,67,58,99,-9,2.0
-Yerbogachen,RU,68,63,61,108,-13,3.0
-Solnechnyy,RU,8,54,50,136,-10,3.0
-Arman,RU,0,75,59,150,-16,2.0
-Palana,RU,8,65,59,159,-4,2.0
-Tilichiki,RU,0,32,60,166,-22,2.0
-Lavrentiya,RU,68,100,65,-170,7,15.0
-College,US,90,92,64,-147,11,4.0
-Mayo,CA,75,77,63,-135,5,3.0
-Norman Wells,CA,90,84,65,-126,1,8.0
-Hay River,CA,40,57,60,-115,17,10.0
-Nuuk,GL,5,56,64,-51,12,4.0
-Tasiilaq,GL,0,79,65,-37,26,18.0
-Brae,GB,20,100,60,-1,37,4.0
-Skelleftea,SE,40,92,64,20,15,9.0
-Kostomuksha,RU,48,70,64,30,7,9.0
-Severodvinsk,RU,0,75,64,39,-18,11.0
-Koslan,RU,0,72,63,48,-16,4.0
-Inta,RU,24,69,66,60,-22,2.0
-Yar-Sale,RU,48,78,66,70,-7,13.0
-Urengoy,RU,56,63,65,78,-21,3.0
-Turukhansk,RU,56,61,65,87,-12,4.0
-Tura,RU,64,85,64,100,-20,2.0
-Aykhal,RU,44,65,65,111,-22,2.0
-Verkhnevilyuysk,RU,20,73,63,120,-24,4.0
-Namtsy,RU,0,52,62,129,-30,2.0
-Ust-Nera,RU,48,76,64,143,-19,0.0
-Zyryanka,RU,80,69,65,150,-4,6.0
-Evensk,RU,8,100,61,159,-1,5.0
-Barrow,US,1,35,39,-90,58,12.0
-Aklavik,CA,75,76,68,-135,-4,5.0
-Tuktoyaktuk,CA,75,76,69,-133,-1,10.0
-Clyde River,CA,20,68,70,-68,-18,2.0
-Upernavik,GL,64,97,72,-56,2,11.0
-Ilulissat,GL,5,53,69,-51,-2,1.0
-Hofn,IS,90,93,64,-15,41,2.0
-Raudeberg,NO,0,85,61,5,27,1.0
-Sorland,NO,0,61,67,12,15,3.0
-Lyngseidet,NO,0,85,69,20,13,2.0
-Vadso,NO,75,85,70,29,23,9.0
-Ostrovnoy,RU,0,80,68,39,4,7.0
-Tazovskiy,RU,56,55,67,78,-18,3.0
-Talnakh,RU,0,55,69,88,-31,2.0
-Khatanga,RU,24,53,71,102,-30,3.0
-Zhigansk,RU,0,49,66,123,-29,3.0
-Tiksi,RU,8,71,71,128,-36,3.0
-Deputatskiy,RU,36,72,69,139,-37,2.0
-Chokurdakh,RU,20,69,70,147,-15,19.0
-Cherskiy,RU,80,78,68,161,-3,8.0
-Pevek,RU,88,89,69,170,11,38.0
-Qaanaaq,GL,56,91,77,-69,-1,13.0
-Narsaq,GL,5,49,60,-46,0,2.0
-Husavik,IS,40,65,66,-17,44,24.0
-Roald,NO,40,74,62,6,26,14.0
-Skjervoy,NO,0,85,70,20,14,13.0
-Berlevag,NO,40,92,70,29,18,10.0
-Dikson,RU,0,87,73,80,-13,11.0
-Saskylakh,RU,64,48,71,114,-29,3.0
-Longyearbyen,SJ,75,93,78,15,37,33.0
-Mehamn,NO,40,92,71,27,23,10.0
+Namatanai,PG,80,100,-3,152,81,8.0
+Butaritari,KI,68,100,3,172,82,13.0
+Kapaa,US,90,78,22,-159,69,26.0
+San Patricio,MX,0,68,19,-104,82,4.0
+La Libertad,SV,20,46,13,-89,87,9.0
+Portobelo,PA,40,45,9,-79,89,16.0
+Carora,VE,100,33,10,-70,85,7.0
+Rio Claro,TT,75,61,10,-61,82,5.0
+Sinnamary,GF,32,95,5,-52,79,8.0
+Carutapera,BR,48,92,-1,-46,79,4.0
+Oussouye,SN,0,54,12,-16,85,9.0
+Tokonou,GN,64,94,9,-9,71,4.0
+Yendi,GH,32,47,9,0,84,6.0
+Bauchi,NG,0,27,10,9,75,6.0
+Am Timan,TD,0,21,11,20,78,9.0
+Kavaratti,IN,0,100,10,72,83,4.0
+Valvedditturai,LK,80,95,9,80,80,10.0
+Port Blair,IN,0,98,11,92,84,4.0
+Ko Samui,TH,0,100,9,99,81,6.0
+Osmena,PH,44,100,12,124,72,3.0
+Bacolod,PH,8,90,10,122,71,4.0
+Ewa Beach,US,1,78,21,-158,72,9.0
+Guerrero Negro,MX,0,63,27,-114,62,11.0
+Acapulco,MX,5,70,16,-99,84,6.0
+San Agustin Acasaguastlan,GT,0,34,14,-89,79,1.0
+San Andres,CO,20,62,8,-76,87,18.0
+Oranjestad,AW,20,66,12,-70,84,12.0
+Le Vauclin,MQ,20,58,14,-60,82,11.0
+Bathsheba,BB,40,69,13,-59,80,17.0
+Ponta do Sol,CV,0,100,17,-25,69,6.0
+Porto Novo,CV,20,53,17,-25,75,10.0
+Dakar,SN,20,83,14,-17,69,9.0
+Gorom-Gorom,BF,0,24,14,0,86,12.0
+Goure,NE,0,17,13,10,76,9.0
+Biltine,TD,0,26,14,20,73,8.0
+Salalah,OM,0,73,17,54,75,3.0
+Kavali,IN,0,91,14,79,64,3.0
+Doembang Nangbuat,TH,0,96,14,100,71,3.0
+Quang Ngai,VN,8,99,15,108,65,2.0
+San Narciso,PH,40,83,15,120,78,5.0
+San Policarpo,PH,92,100,12,125,76,4.0
+Lompoc,US,1,41,34,-120,55,6.0
+Constitucion,MX,20,16,23,-104,75,24.0
+Temascalcingo,MX,48,56,19,-100,68,3.0
+Hecelchakan,MX,20,36,20,-90,91,11.0
+Bodden Town,KY,20,61,19,-81,82,16.0
+Sosua,DO,40,74,19,-70,81,11.0
+Nouadhibou,MR,0,68,20,-17,69,12.0
+Atar,MR,0,33,20,-13,64,5.0
+Tessalit,ML,0,37,20,1,72,6.0
+Arlit,NE,0,24,18,7,70,10.0
+Marawi,SD,0,25,18,31,74,14.0
+Mecca,SA,0,36,21,39,80,3.0
+Sur,OM,0,90,22,59,74,5.0
+Veraval,IN,20,56,20,70,79,12.0
+Mul,IN,0,68,20,79,65,2.0
+Mathbaria,BD,0,89,22,89,73,5.0
+Chiang Rai,TH,0,100,19,99,66,2.0
+Lingao,CN,0,97,19,109,63,3.0
+Davila,PH,40,88,18,120,75,2.0
+Itoman,JP,20,68,26,127,63,14.0
+Naze,JP,0,100,28,129,62,22.0
+Katsuura,JP,24,78,33,134,51,18.0
+La Paz,MX,75,45,24,-110,66,13.0
+Galeana,MX,12,34,24,-100,78,7.0
+Progreso,MX,20,31,20,-99,80,3.0
+Key Largo,US,40,61,25,-80,81,11.0
+Cockburn Town,TC,0,100,21,-71,75,12.0
+The Valley,AI,20,54,18,-63,80,9.0
+Los Llanos de Aridane,ES,75,60,28,-17,68,24.0
+Tiznit,MA,88,94,29,-9,60,17.0
+Adrar,DZ,0,25,27,0,84,18.0
+Awjilah,LY,0,46,29,21,64,11.0
+Sohag,EG,0,55,26,31,54,3.0
+Umm Lajj,SA,0,100,25,37,62,8.0
+Umm Bab,QA,0,95,25,50,62,8.0
+Chabahar,IR,0,100,25,60,71,3.0
+Mithi,PK,80,46,24,69,68,3.0
+Khajuraho,IN,48,69,24,79,61,2.0
+Sherpur,BD,0,89,25,90,61,2.0
+Dali,CN,0,100,25,100,35,1.0
+Guilin,CN,20,87,25,110,60,2.0
+Gushikawa,JP,20,68,26,127,63,14.0
+Shingu,JP,24,94,33,135,58,35.0
+Hasaki,JP,75,100,35,140,52,14.0
+Kahului,US,40,64,20,-156,68,6.0
+Pacific Grove,US,20,58,36,-121,51,5.0
+Rosarito,MX,90,52,27,-109,64,16.0
+Cumpas,MX,64,46,30,-109,52,4.0
+Uvalde,US,90,88,29,-99,73,10.0
+Chalmette,US,75,61,29,-89,81,14.0
+Ormond Beach,US,40,53,29,-81,78,9.0
+Hamilton,BM,75,51,32,-64,62,9.0
+Saint George,BM,75,51,32,-64,62,9.0
+Ribeira Grande,PT,40,82,38,-28,57,10.0
+Nalut,LY,0,62,31,10,57,8.0
+Ajdabiya,LY,0,82,30,20,56,8.0
+Madinat Sittah Uktubar,EG,0,42,29,31,66,6.0
+Zabol,IR,40,42,31,61,64,6.0
+Barkhan,PK,56,97,29,69,50,3.0
+Bageshwar,IN,12,68,29,79,40,3.0
+Enshi,CN,100,96,30,109,45,2.0
+Fuyang,CN,32,93,32,115,46,8.0
+Kaseda,JP,20,100,31,130,58,31.0
+Shimoda,JP,75,93,34,138,48,4.0
+Severo-Kurilsk,RU,68,100,50,156,27,29.0
+Fortuna,US,90,61,40,-124,50,13.0
+Pacifica,US,90,66,37,-122,52,11.0
+Santa Maria,US,1,37,34,-120,55,4.0
+Winslow,US,75,45,35,-110,46,10.0
+Elk City,US,1,21,35,-99,68,14.0
+Southaven,US,90,100,34,-90,66,6.0
+Rockingham,US,90,76,34,-79,58,0.0
+Torbay,CA,90,100,47,-52,31,8.0
+Methoni,GR,20,52,36,21,46,4.0
+Kumluca,TR,20,96,36,30,32,1.0
+Abu Kamal,SY,0,85,34,40,41,2.0
+Tafresh,IR,24,88,34,50,34,1.0
+Torbat-e Jam,IR,92,100,35,60,47,2.0
+Tagab,AF,75,76,34,69,48,3.0
+Leh,IN,88,86,34,77,6,0.0
+Xining,CN,20,75,36,101,22,2.0
+Weinan,CN,80,53,34,109,50,4.0
+Rizhao,CN,64,58,35,119,41,20.0
+Fukuma,JP,75,71,33,130,48,21.0
+Kamogawa,JP,75,93,35,140,52,10.0
+Kamaishi,JP,92,96,39,141,41,19.0
+Nikolskoye,RU,75,84,59,30,6,6.0
+Provideniya,RU,92,100,64,-173,23,29.0
+Kodiak,US,90,87,39,-94,55,5.0
+Sun Valley,US,40,62,43,-114,19,2.0
+Price,US,12,62,39,-110,32,3.0
+Lexington,US,90,87,38,-84,54,6.0
+Jacksonville,US,90,60,30,-81,77,11.0
+Uniontown,US,40,46,39,-79,60,14.0
+Nantucket,US,1,70,41,-70,49,18.0
+Port Hawkesbury,CA,90,92,45,-61,28,8.0
+Vila Franca do Campo,PT,40,82,37,-25,55,19.0
+Peniche,PT,75,100,39,-9,58,18.0
+Burriana,ES,75,87,39,0,50,5.0
+Tortoli,IT,90,87,39,9,44,11.0
+Delvine,AL,75,49,39,20,46,11.0
+Bozuyuk,TR,75,95,39,30,32,12.0
+Bayburt,TR,56,80,40,40,28,4.0
+Hazorasp,UZ,75,93,41,61,37,4.0
+Aksu,CN,0,66,41,80,16,3.0
+Korla,CN,0,78,41,86,22,1.0
+Zhangye,CN,44,71,38,100,25,3.0
+Dongsheng,CN,32,82,29,112,46,9.0
+Qinhuangdao,CN,0,27,39,119,22,8.0
+Khasan,RU,88,100,42,130,29,9.0
+Tenno,JP,92,100,39,139,41,27.0
+Bethel,US,20,84,60,-161,1,8.0
+Sitka,US,0,62,37,-99,60,8.0
+Newport,US,1,57,41,-71,51,14.0
+Hermiston,US,1,57,45,-119,46,5.0
+Livingston,US,1,34,45,-110,30,20.0
+Pierre,US,0,79,44,-100,37,8.0
+Merrill,US,90,74,42,-121,28,3.0
+Midland,CA,90,82,44,-79,54,11.0
+Madison,US,90,93,43,-89,41,10.0
+Lagoa,PT,40,93,37,-8,60,24.0
+Carballo,ES,75,87,43,-8,43,2.0
+Libourne,FR,90,86,44,0,40,5.0
+Cremona,IT,75,54,45,10,30,6.0
+Sulina,RO,76,100,45,29,20,21.0
+Novolabinskaya,RU,0,75,45,39,41,15.0
+Fort-Shevchenko,KZ,56,100,44,50,36,14.0
+Sarkand,KZ,92,100,45,79,32,3.0
+Hovd,MN,32,52,48,91,11,3.0
+Darhan,MN,56,54,49,105,-7,3.0
+Chaihe,CN,76,90,44,129,24,6.0
+Wakkanai,JP,20,100,45,141,29,19.0
+Port Hardy,CA,90,86,50,-127,39,23.0
+Peachland,CA,75,92,49,-119,31,2.0
+Maple Creek,CA,0,76,49,-109,32,7.0
+Brandon,CA,20,67,49,-99,23,9.0
+Thunder Bay,CA,5,59,48,-89,32,3.0
+Cochrane,CA,40,36,51,-114,31,12.0
+Forestville,CA,90,92,48,-69,26,16.0
+Saint-Augustin,CA,90,69,45,-73,42,4.0
+Bonavista,CA,92,98,48,-53,32,12.0
+Nanortalik,GL,32,98,60,-45,33,35.0
+Dingle,IE,44,100,52,-10,33,29.0
+Skibbereen,IE,75,100,51,-9,24,21.0
+Fecamp,FR,0,38,49,0,26,21.0
+Werneck,DE,75,56,49,10,16,14.0
+Wieliczka,PL,75,78,49,20,14,5.0
+Fastiv,UA,90,72,50,29,10,13.0
+Mitrofanovka,RU,92,88,49,39,16,17.0
+Ozinki,RU,0,76,51,49,-3,10.0
+Dombarovskiy,RU,0,76,50,59,0,8.0
+Astana,KZ,75,84,51,71,8,11.0
+Semey,KZ,92,91,50,80,21,4.0
+Mugur-Aksy,RU,32,79,50,90,17,4.0
+Moron,MN,0,41,47,110,-15,5.0
+Krasnyy Chikoy,RU,0,48,50,108,-18,2.0
+Hailar,CN,68,69,49,119,0,8.0
+Novobureyskiy,RU,76,75,49,129,7,6.0
+Vysokogornyy,RU,36,63,50,139,-9,2.0
+Vostok,RU,88,75,46,135,15,4.0
+Petropavlovsk-Kamchatskiy,RU,24,42,53,158,26,15.0
+Egvekinot,RU,92,65,66,-179,-4,2.0
+Prince Rupert,CA,90,93,54,-130,35,3.0
+Beaverlodge,CA,20,58,55,-119,26,10.0
+The Pas,CA,75,68,53,-101,24,11.0
+Port-Cartier,CA,88,99,50,-66,21,21.0
+Grindavik,IS,76,98,63,-22,41,12.0
+Vestmannaeyjar,IS,48,100,63,-20,37,6.0
+Ballina,IE,40,92,54,-9,24,11.0
+Scarborough,GB,80,81,54,0,28,21.0
+Guderup,DK,75,79,54,9,22,32.0
+Spas-Klepiki,RU,56,71,55,40,1,11.0
+Bazarnyye Mataki,RU,0,47,54,49,-15,3.0
+Turgoyak,RU,32,71,55,60,-2,4.0
+Bulaevo,KZ,76,86,54,70,4,11.0
+Kargat,RU,92,84,55,80,2,11.0
+Atagay,RU,64,82,55,99,-2,2.0
+Kurumkan,RU,0,46,54,110,-31,1.0
+Tupik,RU,48,59,54,119,-8,3.0
+Mnogovershinnyy,RU,0,58,53,139,-12,3.0
+Magadan,RU,32,82,59,150,-20,2.0
+Sterling,US,1,34,39,-77,61,11.0
+Haines Junction,CA,68,70,60,-137,4,5.0
+Juneau,US,90,89,58,-134,31,8.0
+Fort Nelson,CA,0,56,58,-122,22,7.0
+Yellowknife,CA,75,77,62,-114,-2,2.0
+Thompson,CA,80,79,55,-97,26,4.0
+Iqaluit,CA,88,91,63,-68,23,7.0
+Pangnirtung,CA,36,75,66,-65,25,8.0
+Paamiut,GL,92,80,61,-49,36,32.0
+Lerwick,GB,40,73,60,-1,24,14.0
+Vikersund,NO,56,67,59,9,8,4.0
+Lisiy Nos,RU,75,84,60,30,6,6.0
+Kharovsk,RU,44,70,59,40,1,3.0
+Raduzhnyy,RU,8,65,62,77,-34,3.0
+Volchansk,RU,48,71,59,60,-6,6.0
+Gornopravdinsk,RU,0,52,60,69,-17,2.0
+Kargasok,RU,20,50,59,80,-17,3.0
+Teya,RU,20,55,60,92,-19,2.0
+Kodinsk,RU,44,68,58,99,-9,2.0
+Yerbogachen,RU,36,52,61,108,-18,3.0
+Solnechnyy,RU,48,63,50,136,-8,4.0
+Arman,RU,32,82,59,150,-20,2.0
+Palana,RU,92,76,59,159,12,5.0
+Tilichiki,RU,92,85,60,166,28,11.0
+Lavrentiya,RU,88,100,65,-170,21,18.0
+College,US,20,83,64,-147,-6,3.0
+Mayo,CA,0,59,63,-135,3,4.0
+Norman Wells,CA,90,70,65,-126,1,20.0
+Hay River,CA,8,68,60,-115,21,3.0
+Nuuk,GL,92,100,64,-51,18,5.0
+Tasiilaq,GL,56,97,65,-37,22,12.0
+Brae,GB,40,73,60,-1,24,14.0
+Skelleftea,SE,0,71,64,20,6,8.0
+Kostomuksha,RU,20,68,64,30,2,7.0
+Severodvinsk,RU,0,84,64,39,8,11.0
+Koslan,RU,80,75,63,48,12,8.0
+Inta,RU,88,88,66,60,16,12.0
+Yar-Sale,RU,88,88,66,70,8,30.0
+Urengoy,RU,76,72,65,78,-10,22.0
+Turukhansk,RU,64,55,65,87,-19,17.0
+Tura,RU,8,46,64,100,-29,2.0
+Aykhal,RU,0,61,65,111,-34,3.0
+Verkhnevilyuysk,RU,44,50,63,120,-17,5.0
+Namtsy,RU,36,39,62,129,-25,4.0
+Ust-Nera,RU,56,76,64,143,-10,1.0
+Zyryanka,RU,48,78,65,150,-12,2.0
+Evensk,RU,80,100,61,159,11,18.0
+Barrow,US,90,82,39,-90,55,5.0
+Aklavik,CA,36,76,68,-135,-6,8.0
+Tuktoyaktuk,CA,8,68,69,-133,-9,17.0
+Clyde River,CA,12,83,70,-68,-5,3.0
+Upernavik,GL,80,90,72,-56,13,5.0
+Ilulissat,GL,44,84,69,-51,-1,2.0
+Hofn,IS,88,100,64,-15,39,4.0
+Raudeberg,NO,0,37,61,5,19,14.0
+Sorland,NO,75,100,67,12,32,6.0
+Lyngseidet,NO,75,55,69,20,35,33.0
+Vadso,NO,75,91,70,29,32,20.0
+Ostrovnoy,RU,92,89,68,39,23,19.0
+Tazovskiy,RU,80,69,67,78,-5,24.0
+Talnakh,RU,80,76,69,88,-12,24.0
+Khatanga,RU,88,78,71,102,-7,10.0
+Zhigansk,RU,24,69,66,123,-23,4.0
+Tiksi,RU,12,78,71,128,-38,3.0
+Deputatskiy,RU,56,81,69,139,-14,2.0
+Chokurdakh,RU,68,52,70,147,-17,9.0
+Cherskiy,RU,56,66,68,161,-8,2.0
+Pevek,RU,36,90,69,170,-6,5.0
+Qaanaaq,GL,64,78,77,-69,16,12.0
+Narsaq,GL,88,65,60,-46,19,4.0
+Husavik,IS,92,100,66,-17,30,5.0
+Roald,NO,20,49,62,6,19,14.0
+Skjervoy,NO,75,55,70,20,39,33.0
+Berlevag,NO,88,100,70,29,29,9.0
+Dikson,RU,44,85,73,80,2,17.0
+Saskylakh,RU,0,45,71,114,-28,11.0
+Longyearbyen,SJ,0,76,78,15,-3,3.0
+Mehamn,NO,88,90,71,27,28,6.0
