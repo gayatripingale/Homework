@@ -40,6 +40,7 @@ SELECT * FROM actor WHERE last_name = 'WILLIAMS';
  
  SET first_name =
  CASE
+
  WHEN first_name =' HARPO' THEN 'GROUCHO'
  ELSE 'MUCHO GROUCHO'
  END
